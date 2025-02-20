@@ -1,0 +1,16 @@
+{
+  "drag": "可拖拽和点击",
+  "operationList.delete": "删除",
+  "operationList.copy": "复制",
+  "operationList.copySuccess": "复制成功",
+  "operationList.copyFail": "复制失败",
+  "operationList.cut": "剪切",
+  "operationList.cutSuccess": "剪切成功",
+  "operationList.cutFail": "剪切失败",
+  "operationList.transform.name": "转化为",
+  "operationList.transform.mainContent": "正文内容",
+  "operationList.transform.highlightBlock": "高亮块",
+  "operationList.addBelow.name": "在下方添加",
+  "operationList.addBelow.highlightBlock": "高亮块",
+  "operationList.addBelow.line": "空行"
+}
